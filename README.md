@@ -128,4 +128,30 @@ SQL is an important cybersecurity analyst skill because security information is 
 
 ---
 
+### 6. Data Analysis with Python
+
+- **Provider:** IBM through Coursera
+- **Completed:** October 21, 2020
+- **Grade:** 87.13%
+- **Estimated coursework:** 16 hours
+- **Certificate:** [View official certificate (PDF)](certificates/06-data-analysis-with-python.pdf)
+
+#### What I Learned
+
+- Used Python to clean and prepare data by addressing missing values, formatting inconsistencies, normalization, and binning.
+- Applied data operations with Pandas DataFrames to organize, summarize, and interpret data distributions and correlations.
+- Performed exploratory data analysis using Pandas, NumPy, and SciPy to identify patterns and generate insights.
+- Created data visualizations to communicate analytical findings clearly.
+- Developed and evaluated regression models using Scikit-learn to generate predictions and support data-driven decision-making.
+
+#### Skills Developed
+
+Python programming, Pandas, NumPy, SciPy, Scikit-learn, data cleansing, data preprocessing, data transformation, exploratory data analysis, statistical analysis, data visualization, correlation analysis, regression modeling, predictive modeling, and model evaluation.
+
+#### Cybersecurity Relevance
+
+These data-analysis skills can support cybersecurity investigations by helping analysts clean and organize security data, identify relationships among events, recognize unusual patterns, visualize trends, and evaluate analytical models. Python libraries such as Pandas, NumPy, and Scikit-learn can also be used to analyze security logs, detect anomalies, assess risk, and develop repeatable threat-analysis workflows.
+
+---
+
 
