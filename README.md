@@ -180,4 +180,30 @@ Data visualization helps cybersecurity analysts identify patterns, anomalies, at
 
 ---
 
+### 8. Machine Learning with Python
 
+- **Provider:** IBM through Coursera
+- **Completed:** May 25, 2021
+- **Grade:** 95.50%
+- **Estimated coursework:** 20 hours
+- **Certificate:** [View official certificate (PDF)](certificates/08-machine-learning-with-python.pdf)
+
+#### What I Learned
+
+- Explored supervised and unsupervised machine-learning techniques using Python.
+- Applied regression, classification, clustering, and dimensionality-reduction algorithms with Scikit-learn.
+- Prepared data and trained machine-learning models using real-world datasets.
+- Evaluated model performance using appropriate metrics, validation strategies, and optimization techniques.
+- Built and assessed end-to-end machine-learning solutions through hands-on labs and practical exercises.
+
+#### Skills Developed
+
+Python, Scikit-learn, machine learning, supervised learning, unsupervised learning, regression analysis, logistic regression, classification, clustering, dimensionality reduction, statistical methods, model training, model evaluation, model optimization, and machine-learning algorithms.
+
+#### Cybersecurity Relevance
+
+Machine-learning techniques can help cybersecurity analysts recognize suspicious patterns, detect anomalous behavior, classify potential threats, and prioritize large volumes of security events. The model-training and evaluation skills developed in this course provide a foundation for exploring applications such as malware classification, phishing detection, network-traffic analysis, fraud detection, and user-behavior analytics.
+
+---
+
+### CAPSTONE IN-PROGRESS....
