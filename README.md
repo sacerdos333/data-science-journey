@@ -48,3 +48,32 @@ Jupyter Notebooks, Python, R, SQL, Git, GitHub, version control, cloud platforms
 #### Cybersecurity Relevance
 
 This course introduced technical tools that transfer directly to cybersecurity analyst work. Python and Jupyter Notebooks can support security-data analysis and automation, SQL can be used to query security records, and GitHub provides version control for scripts, detection rules, documentation, and portfolio projects.
+
+---
+
+### 3. Data Science Methodology
+
+- **Provider:** IBM through Coursera
+- **Completed:** July 10, 2020
+- **Grade:** 91%
+- **Estimated coursework:** 8 hours
+- **Certificate:** [View official certificate (PDF)](certificates/03-data-science-methodology.pdf)
+
+#### What I Learned
+
+- Learned why data scientists use structured methodologies to guide analytical projects.
+- Applied the six stages of the Cross-Industry Process for Data Mining (CRISP-DM) to a case study.
+- Evaluated predictive, descriptive, and classification models for different analytical problems.
+- Identified appropriate data sources and preparation methods based on business and analytical requirements.
+
+#### Skills Developed
+
+CRISP-DM, business requirements, data collection, data preparation, data cleansing, data modeling, data mining, model selection, model evaluation, and analytical problem-solving.
+
+#### Cybersecurity Relevance
+
+This course strengthened my ability to approach complex investigations through a structured, repeatable process. The same methodology can support cybersecurity work by defining an incident or threat, collecting and preparing security data, identifying patterns, evaluating findings, and communicating evidence-based conclusions.
+
+---
+
+
