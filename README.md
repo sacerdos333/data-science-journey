@@ -154,4 +154,30 @@ These data-analysis skills can support cybersecurity investigations by helping a
 
 ---
 
+### 7. Data Visualization with Python
+
+- **Provider:** IBM through Coursera
+- **Completed:** March 1, 2021
+- **Grade:** 94%
+- **Estimated coursework:** 18 hours
+- **Certificate:** [View official certificate (PDF)](certificates/07-data-visualization-with-python.pdf)
+
+#### What I Learned
+
+- Used Python visualization libraries, including Matplotlib, Seaborn, and Folium, to communicate insights through data-driven stories.
+- Created line, area, histogram, bar, pie, box, scatter, and bubble charts.
+- Developed advanced visualizations, including waffle charts, word clouds, regression plots, maps with markers, and choropleth maps.
+- Created interactive dashboards with Dash and Plotly.
+- Selected appropriate visualization techniques for presenting patterns, trends, comparisons, distributions, and geographic data.
+
+#### Skills Developed
+
+Python, Matplotlib, Seaborn, Folium, Plotly, Dash, data visualization, data storytelling, dashboard development, statistical graphics, scatter plots, histograms, regression plots, spatial data analysis, geographic visualization, and interactive reporting.
+
+#### Cybersecurity Relevance
+
+Data visualization helps cybersecurity analysts identify patterns, anomalies, attack trends, and relationships within complex security data. These skills can support the creation of security dashboards, geographic threat maps, incident summaries, vulnerability reports, and executive-level presentations. Interactive visualizations can also make security findings easier for technical teams and organizational leaders to interpret and act upon.
+
+---
+
 
