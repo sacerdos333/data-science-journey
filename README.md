@@ -1,4 +1,14 @@
-## IBM Data Science Professional Certificate Coursework
+# Data Science Journey
+
+This repository documents my IBM Data Science Professional Certificate coursework, technical skills, and the analytical foundation that supports my transition into cybersecurity.
+
+## Program Progress
+
+**IBM Data Science Professional Certificate — Eight courses completed; capstone remaining**
+
+> I completed eight courses in IBM’s Data Science Professional Certificate program between May 2020 and May 2021. The capstone remains to be completed before earning the full Professional Certificate.
+
+## Completed Coursework
 
 ### 1. What Is Data Science?
 
@@ -204,6 +214,3 @@ Python, Scikit-learn, machine learning, supervised learning, unsupervised learni
 
 Machine-learning techniques can help cybersecurity analysts recognize suspicious patterns, detect anomalous behavior, classify potential threats, and prioritize large volumes of security events. The model-training and evaluation skills developed in this course provide a foundation for exploring applications such as malware classification, phishing detection, network-traffic analysis, fraud detection, and user-behavior analytics.
 
----
-
-### CAPSTONE IN-PROGRESS....
