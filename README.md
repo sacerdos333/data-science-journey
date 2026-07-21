@@ -76,4 +76,30 @@ This course strengthened my ability to approach complex investigations through a
 
 ---
 
+### 4. Python for Data Science, AI & Development
+
+- **Provider:** IBM through Coursera
+- **Completed:** August 16, 2020
+- **Grade:** 83.50%
+- **Estimated coursework:** 24 hours
+- **Certificate:** [View official certificate (PDF)](certificates/04-python-for-data-science-ai-and-development.pdf)
+
+#### What I Learned
+
+- Developed a foundational understanding of Python syntax, data types, expressions, variables, and string operations.
+- Applied Python programming concepts including data structures, conditional statements, loops, functions, exception handling, objects, and classes.
+- Used Python libraries such as Pandas and NumPy to organize, manipulate, and analyze data.
+- Created and executed Python code using Jupyter Notebooks.
+- Accessed web-based data through REST APIs and performed web scraping with Beautiful Soup.
+
+#### Skills Developed
+
+Python programming, scripting, Jupyter Notebooks, Pandas, NumPy, data analysis, data collection, data import and export, REST APIs, web scraping, exception handling, object-oriented programming, and data structures.
+
+#### Cybersecurity Relevance
+
+Python is widely used in cybersecurity for automating repetitive tasks, processing security logs, analyzing network and threat data, interacting with APIs, and collecting information from web-based sources. This course established a programming foundation that can support security automation, threat intelligence gathering, vulnerability analysis, and incident investigations.
+
+---
+
 
