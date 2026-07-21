@@ -102,4 +102,30 @@ Python is widely used in cybersecurity for automating repetitive tasks, processi
 
 ---
 
+### 5. Databases and SQL for Data Science with Python
+
+- **Provider:** IBM through Coursera
+- **Completed:** September 13, 2020
+- **Grade:** 82.91%
+- **Estimated coursework:** 18 hours
+- **Certificate:** [View official certificate (PDF)](certificates/05-databases-and-sql-for-data-science-with-python.pdf)
+
+#### What I Learned
+
+- Created and worked with relational databases containing multiple related tables.
+- Constructed basic and intermediate SQL queries using Data Manipulation Language (DML) commands.
+- Used SQL to retrieve, filter, organize, and analyze data stored in databases.
+- Applied advanced SQL techniques, including joins, views, transactions, and stored procedures.
+- Combined SQL and Python in Jupyter Notebooks to access and analyze database information.
+
+#### Skills Developed
+
+SQL, relational databases, database management, data access, data manipulation, query languages, joins, views, stored procedures, transaction processing, Python, Jupyter Notebooks, and data analysis.
+
+#### Cybersecurity Relevance
+
+SQL is an important cybersecurity analyst skill because security information is frequently stored in structured databases. These skills can support querying authentication records, filtering security events, correlating information across multiple tables, investigating suspicious activity, and producing evidence-based reports. Combining SQL with Python also provides a foundation for automating security-data collection and analysis.
+
+---
+
 
