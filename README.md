@@ -4,6 +4,25 @@ This repository documents my IBM Data Science Professional Certificate coursewor
 
 ## Program Progress
 
+## Specialization Badge Earned
+
+### IBM Introduction to Data Science Specialization (V2)
+
+![IBM Introduction to Data Science Specialization badge](badges/ibm-introduction-to-data-science-specialization-v2.pdf)
+
+Issued by **Coursera** and authorized by **IBM**.
+
+This specialization badge recognizes completion of four foundational courses within the IBM Data Science Professional Certificate:
+
+1. What Is Data Science?
+2. Tools for Data Science
+3. Data Science Methodology
+4. Databases and SQL for Data Science with Python
+
+These courses established a foundation in data-science methodology, development tools, Python programming, Jupyter Notebooks, data analysis, and evidence-based problem-solving.
+
+**[Verify this credential on Credly](https://www.credly.com/go/3HdnKyj1)**
+
 **IBM Data Science Professional Certificate — Eight courses completed; capstone remaining**
 
 > I completed eight courses in IBM’s Data Science Professional Certificate program between May 2020 and May 2021. The capstone remains to be completed before earning the full Professional Certificate.
