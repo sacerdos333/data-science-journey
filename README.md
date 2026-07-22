@@ -23,6 +23,8 @@ These courses established a foundation in data-science methodology, development 
 
 **[Verify this credential on Credly](https://www.credly.com/go/3HdnKyj1)**
 
+---
+
 **IBM Data Science Professional Certificate — Eight courses completed; capstone remaining**
 
 > I completed eight courses in IBM’s Data Science Professional Certificate program between May 2020 and May 2021. The capstone remains to be completed before earning the full Professional Certificate.
