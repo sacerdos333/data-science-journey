@@ -8,7 +8,7 @@ This repository documents my IBM Data Science Professional Certificate coursewor
 
 ### IBM Introduction to Data Science Specialization (V2)
 
-![IBM Introduction to Data Science Specialization badge](badges/ibm-introduction-to-data-science-specialization-v2.pdf)
+[IBM Introduction to Data Science Specialization badge](badges/ibm-introduction-to-data-science-specialization-v2.pdf)
 
 Issued by **Coursera** and authorized by **IBM**.
 
