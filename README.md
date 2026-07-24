@@ -29,6 +29,8 @@ These courses established a foundation in data-science methodology, development 
 
 > I completed eight courses in IBM’s Data Science Professional Certificate program between May 2020 and May 2021. The capstone remains to be completed before earning the full Professional Certificate.
 
+---
+
 ## Capstone Progress Log
 
 ### July 24, 2026 — Project Kickoff and Data Collection
@@ -52,6 +54,8 @@ These courses established a foundation in data-science methodology, development 
 **Next Step:**
 
 Continue building the SpaceX launch dataset and document the data sources, collection methods, and lessons learned for future portfolio updates.
+
+---
 
 ## Completed Coursework
 
