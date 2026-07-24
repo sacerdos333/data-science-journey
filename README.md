@@ -33,27 +33,11 @@ These courses established a foundation in data-science methodology, development 
 
 ## Capstone Progress Log
 
-### July 24, 2026 — Project Kickoff and Data Collection
+### July 24, 2026 — IBM Capstone Data Collection
 
-- Reviewed the IBM Data Science Capstone scenario and developed a clear understanding of the project’s purpose, stakeholders, and expected deliverables.
-- Identified the business problem: acting as a data scientist for the fictional company SpaceY to analyze SpaceX launch data and determine the factors associated with successful first-stage rocket landings and reusability.
-- Recognized that the analysis will involve collecting real-world data from multiple sources, querying data with SQL, performing exploratory data analysis, creating visualizations, and examining relationships between numerical and categorical variables.
-- Reviewed how the hands-on labs will support the development, evaluation, and refinement of predictive models.
-- Established the final project objective: create a professional presentation that communicates the analytical process, findings, insights, and recommendations as a cohesive data story.
-- Completed the introductory GitHub lab requirements through previously developed experience creating repositories, README files, and commits.
+Completed the API and web-scraping phase of the IBM Applied Data Science Capstone. Collected and structured SpaceX launch data using Python, pandas, Requests, and BeautifulSoup; diagnosed an external API outage; generated data for later analysis; and completed the associated graded assessment.
 
-**Planned Two-Hour Work Session:**
-
-- Review the Data Collection Overview.
-- Complete the Data Collection API Lab.
-- Complete the Data Collection with Web Scraping Lab.
-- Complete the Data Collection API practice assignment.
-- Complete the graded Data Collection API with Web Scraping assignment.
-- Update the IBM Data Science Capstone progress-tracking workbook with completed activities and remaining requirements.
-
-**Next Step:**
-
-Continue building the SpaceX launch dataset and document the data sources, collection methods, and lessons learned for future portfolio updates.
+For detailed lab notes, troubleshooting, and lessons learned, see the [Applied Data Science Capstone repository](https://github.com/sacerdos333/APPLIED-DATA-SCIENCE-CAPSTONE).
 
 ---
 
