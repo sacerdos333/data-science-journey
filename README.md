@@ -150,7 +150,7 @@ Python is widely used in cybersecurity for automating repetitive tasks, processi
 - **Completed:** August 1, 2026
 - **Grade:** 85%
 - **Estimated coursework:** 7 hours
-- **Certificate:** [View course certificate and completion details](certificates/05-python-project-for-data-science.png)
+- **Certificate:** [View course certificate and completion details](certificates/05-python-project-for-data-science.pdf)
 
 #### What I Learned
 
