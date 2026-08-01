@@ -25,9 +25,9 @@ These courses established a foundation in data-science methodology, development 
 
 ---
 
-**IBM Data Science Professional Certificate — Eight courses completed; capstone remaining**
+**IBM Data Science Professional Certificate — Nine courses completed; three courses remaining**
 
-> I completed eight courses in IBM’s Data Science Professional Certificate program between May 2020 and May 2021. The capstone remains to be completed before earning the full Professional Certificate.
+> I completed eight courses in IBM’s Data Science Professional Certificate program between May 2020 and May 2021. On August 1, 2026, I returned to the program and completed Python Project for Data Science. Three courses remain before I earn the full Professional Certificate: the Applied Data Science Capstone, Generative AI: Elevate Your Data Science Career, and Data Scientist Career Guide and Interview Preparation.
 
 ---
 
@@ -144,13 +144,44 @@ Python is widely used in cybersecurity for automating repetitive tasks, processi
 
 ---
 
-### 5. Databases and SQL for Data Science with Python
+### 5. Python Project for Data Science
+
+- **Provider:** IBM through Coursera
+- **Completed:** August 1, 2026
+- **Grade:** 85%
+- **Estimated coursework:** 7 hours
+- **Certificate:** [View course certificate and completion details](certificates/05-python-project-for-data-science.png)
+
+#### What I Learned
+
+- Applied Python fundamentals, data structures, and data-analysis techniques in a hands-on project.
+- Used the `yfinance` library to retrieve historical stock data and company information.
+- Used Requests and Beautiful Soup to extract financial data from webpages.
+- Organized and analyzed data with Pandas DataFrames in Jupyter Notebook.
+- Created an interactive dashboard with Plotly to compare stock prices and company revenue.
+- Strengthened my ability to interpret traceback errors and troubleshoot syntax and data-extraction problems.
+
+#### Skills Developed
+
+Python programming, Jupyter Notebook, Pandas, data collection, web scraping, Beautiful Soup, Requests, `yfinance`, data analysis, data visualization, Plotly, dashboard creation, graphing, and technical troubleshooting.
+
+#### Cybersecurity Relevance
+
+This project strengthened Python skills that transfer directly to cybersecurity analysis. Retrieving data from APIs and webpages, organizing it in DataFrames, troubleshooting errors, and presenting findings visually are useful for threat-intelligence collection, security-log analysis, vulnerability research, incident investigation, and security dashboard development.
+
+#### Project Reflection
+
+Completing this project reinforced that I need continued practice with Python data extraction. Taking time to understand traceback messages helped me recognize syntax and data-structure issues instead of simply treating errors as failures. The project also refreshed my experience with web scraping, DataFrames, and dashboards before I continue the Applied Data Science Capstone.
+
+---
+
+### 6. Databases and SQL for Data Science with Python
 
 - **Provider:** IBM through Coursera
 - **Completed:** September 13, 2020
 - **Grade:** 82.91%
 - **Estimated coursework:** 18 hours
-- **Certificate:** [View official certificate (PDF)](certificates/05-databases-and-sql-for-data-science-with-python.pdf)
+- **Certificate:** [View official certificate (PDF)](certificates/06-databases-and-sql-for-data-science-with-python.pdf)
 
 #### What I Learned
 
@@ -170,13 +201,13 @@ SQL is an important cybersecurity analyst skill because security information is 
 
 ---
 
-### 6. Data Analysis with Python
+### 7. Data Analysis with Python
 
 - **Provider:** IBM through Coursera
 - **Completed:** October 21, 2020
 - **Grade:** 87.13%
 - **Estimated coursework:** 16 hours
-- **Certificate:** [View official certificate (PDF)](certificates/06-data-analysis-with-python.pdf)
+- **Certificate:** [View official certificate (PDF)](certificates/07-data-analysis-with-python.pdf)
 
 #### What I Learned
 
@@ -196,13 +227,13 @@ These data-analysis skills can support cybersecurity investigations by helping a
 
 ---
 
-### 7. Data Visualization with Python
+### 8. Data Visualization with Python
 
 - **Provider:** IBM through Coursera
 - **Completed:** March 1, 2021
 - **Grade:** 94%
 - **Estimated coursework:** 18 hours
-- **Certificate:** [View official certificate (PDF)](certificates/07-data-visualization-with-python.pdf)
+- **Certificate:** [View official certificate (PDF)](certificates/08-data-visualization-with-python.pdf)
 
 #### What I Learned
 
@@ -222,13 +253,13 @@ Data visualization helps cybersecurity analysts identify patterns, anomalies, at
 
 ---
 
-### 8. Machine Learning with Python
+### 9. Machine Learning with Python
 
 - **Provider:** IBM through Coursera
 - **Completed:** May 25, 2021
 - **Grade:** 95.50%
 - **Estimated coursework:** 20 hours
-- **Certificate:** [View official certificate (PDF)](certificates/08-machine-learning-with-python.pdf)
+- **Certificate:** [View official certificate (PDF)](certificates/09-machine-learning-with-python.pdf)
 
 #### What I Learned
 
